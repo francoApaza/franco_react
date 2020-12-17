@@ -18,7 +18,8 @@ const Footer = () => {
         </div>
 
         <p className="col text-white text-center bg-primary" id="recodepro">&copy;Recode Pro</p>
-
+        
+        <br/>
         </div>
             
     </footer>

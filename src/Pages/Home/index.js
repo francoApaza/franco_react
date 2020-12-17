@@ -11,7 +11,7 @@ function PaginaIni(){
 
              
 
-               <h1>Seja bem vindo(a)!</h1>
+               <h1>Seja bem vindos(a)!</h1>
 
                <p> Aqui em nossa loja, <i>programadores tem desconto</i> nos produtos para sua casa!</p>
 
